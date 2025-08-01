@@ -1,6 +1,6 @@
 #Olá, tudo bem? 
-Me chamo José Luis
-Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente em transição de carreira para a área de **Desenvolvimento Full Stack**. Tenho interesse em construir soluções completas, atuando tanto no front-end quanto no back-end, com foco em Python, JavaScript e tecnologias web.
+Me chamo José Luis.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente em transição de carreira para a área de **Desenvolvimento Full Stack**. Tenho interesse em construir soluções completas, atuando tanto no front-end quanto no back-end, com foco em Python, JavaScript e tecnologias web.
 
 Sobre mim
 
