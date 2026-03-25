@@ -1,34 +1,57 @@
-## Olá, tudo bem?
+# 👋 Olá, eu sou o José Luis
 
-Me chamo José Luis.
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente em transição de carreira para a área de **Desenvolvimento Full Stack**. Tenho interesse em construir soluções completas, atuando tanto no front-end quanto no back-end, com foco em Python, JavaScript e tecnologias web.
-
-Sobre mim
-
-Profissional com experiência anterior em áreas administrativas, atendimento ao cliente, controle de estoque e vendas. Essas vivências me trouxeram habilidades fundamentais como organização, responsabilidade e comunicação — que agora aplico ao meu processo de formação em tecnologia.
-Desde 2020, quando tive meu primeiro contato com programação e robótica, venho aprofundando meus conhecimentos por meio de cursos, estudos práticos e desenvolvimento de projetos próprios.
-Atualmente, estou em busca de uma oportunidade de estágio na área de desenvolvimento, onde eu possa aprender com profissionais experientes, contribuir com projetos reais e seguir evoluindo como desenvolvedor.
-
-Tecnologias e conhecimentos
-
-- **Linguagens:** Python, JavaScript (básico), HTML, CSS  
-- **Banco de dados:** SQLite  
-- **Ferramentas:** Git, GitHub, VS Code, Excel Avançado  
-- **Em aprendizado:** React, Flask, estrutura de APIs, lógica avançada
-
-Projetos em desenvolvimento
-
-- **Sistema de Controle de Estoque** – Aplicação em Python com banco de dados SQLite  
-- **Calculadora de Frete** – Lógica de negócio para simulação de valores logísticos  
-- **To-do List Web** – Lista de tarefas responsiva com HTML, CSS e JavaScript
-
-Contato
-
-- ✉️ E-mail: jose.lgn@outlook.com  
-- 💼 LinkedIn: (https://www.linkedin.com/in/jogomessz)
+🎯 Estudante de Análise e Desenvolvimento de Sistemas
+📊 Focado em Análise de Dados | BI | Automação
+💼 Experiência prática em Service Desk com foco em dados, KPIs e melhoria de processos
 
 ---
 
-Este repositório é parte do meu processo de aprendizado contínuo. Estou aberto a conexões, colaborações e feedbacks construtivos.
+## 🚀 Sobre mim
+
+Atualmente atuo como estagiário de TI, onde aplico análise de dados no dia a dia para monitoramento de indicadores, otimização de processos e apoio à tomada de decisão.
+
+Tenho experiência com criação de dashboards, análise de chamados, automação de tarefas e desenvolvimento de soluções orientadas a dados.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+* 📊 Power BI (DAX, Modelagem de Dados, Dashboards)
+* 📈 Excel Avançado (Power Query, VBA)
+* 🐍 Python (Pandas, Análise Exploratória)
+* 🔄 ETL e Tratamento de Dados
+* ⚙️ Power Automate
+* 🖥️ ServiceNow, SAP, Active Directory
+
+---
+
+## 📌 Projetos em Destaque
+
+### 🤖 Bot para Controle de Contas
+
+Automação desenvolvida com Python e Power Automate para controle de gastos e envio de lembretes automáticos.
+
+📉 Resultado: redução de aproximadamente 2 horas semanais em tarefas manuais.
+
+🔗 Em breve: documentação completa do projeto
+
+---
+
+## 📊 Interesses
+
+* Análise de Dados
+* Business Intelligence
+* Automação de Processos
+* Visualização de Dados
+
+---
+
+## 📫 Contato
+
+* 💼 LinkedIn: https://www.linkedin.com/in/jogomessz/
+* 📧 Email: [jose.lgn@outlook.com](mailto:jose.lgn@outlook.com)
+
+---
+
+⭐ Sempre buscando evoluir e transformar dados em decisões!
 
