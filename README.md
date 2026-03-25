@@ -8,9 +8,9 @@
 
 ## 🚀 Sobre mim
 
-Atualmente atuo como estagiário de TI, onde aplico análise de dados no dia a dia para monitoramento de indicadores, otimização de processos e apoio à tomada de decisão.
+Atualmente atuo como estagiário de TI, aplicando análise de dados no dia a dia para monitoramento de indicadores, otimização de processos e apoio à tomada de decisão.
 
-Tenho experiência com criação de dashboards, análise de chamados, automação de tarefas e desenvolvimento de soluções orientadas a dados.
+Tenho experiência com análise de dados operacionais, criação de dashboards e desenvolvimento de soluções automatizadas voltadas para eficiência e produtividade.
 
 ---
 
@@ -18,10 +18,10 @@ Tenho experiência com criação de dashboards, análise de chamados, automaçã
 
 * 📊 Power BI (DAX, Modelagem de Dados, Dashboards)
 * 📈 Excel Avançado (Power Query, VBA)
-* 🐍 Python (Pandas, Análise Exploratória)
+* 🐍 Python (Pandas, Análise Exploratória de Dados)
 * 🔄 ETL e Tratamento de Dados
-* ⚙️ Power Automate
 * 🖥️ ServiceNow, SAP, Active Directory
+* 🤖 Apoio de IA para automação, análise e geração de soluções
 
 ---
 
@@ -29,11 +29,19 @@ Tenho experiência com criação de dashboards, análise de chamados, automaçã
 
 ### 🤖 Bot para Controle de Contas
 
-Automação desenvolvida com Python e Power Automate para controle de gastos e envio de lembretes automáticos.
+Solução desenvolvida em Python para automatizar o controle de gastos e envio de lembretes.
 
-📉 Resultado: redução de aproximadamente 2 horas semanais em tarefas manuais.
+O projeto utiliza manipulação de dados, automação de rotinas e integração de informações para reduzir tarefas manuais.
 
-🔗 Em breve: documentação completa do projeto
+📉 Resultado: redução de aproximadamente 2 horas semanais em atividades operacionais.
+
+🛠️ Tecnologias utilizadas:
+
+* Python
+* Pandas
+* Automação de rotinas
+* Integração de dados
+* Apoio de IA no desenvolvimento e otimização da solução
 
 ---
 
