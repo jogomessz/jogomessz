@@ -64,11 +64,3 @@ O projeto utiliza manipulação de dados, automação de rotinas e integração 
 
 * 💼 LinkedIn: https://www.linkedin.com/in/jogomessz/
 * 📧 Email: [jose.lgn@outlook.com](mailto:jose.lgn@outlook.com)
-
----
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jogomessz&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogomessz&layout=compact)
