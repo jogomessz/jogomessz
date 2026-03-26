@@ -22,7 +22,13 @@ Tenho experiência com análise de dados operacionais, criação de dashboards e
 * 🔄 ETL e Tratamento de Dados
 * 🖥️ ServiceNow, SAP, Active Directory
 * 🤖 Apoio de IA para automação, análise e geração de soluções
+  
+## 🛠️ Tecnologias
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ---
 
 ## 📌 Projetos em Destaque
