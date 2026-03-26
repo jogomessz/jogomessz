@@ -67,5 +67,8 @@ O projeto utiliza manipulação de dados, automação de rotinas e integração 
 
 ---
 
-⭐ Sempre buscando evoluir e transformar dados em decisões!
+## 📊 Estatísticas
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jogomessz&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogomessz&layout=compact)
